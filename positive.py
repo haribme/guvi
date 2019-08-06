@@ -1,7 +1,7 @@
-hari=int(enter the value)
-if hari>o:
-   print("given value is positive")
+hari=int(input())
+if hari>0:
+   print(" Positive")
 elif hari<0:
-   print("given value is negative")
+   print(" Negative")
 else:
-   print("given value is zero")
+   print("Invalid")
